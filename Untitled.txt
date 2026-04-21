@@ -1,0 +1,19 @@
+# README.md
+
+# Ironworks Gym — Forge Your Best Self
+
+A modern, responsive landing page for **Ironworks Gym**, a premium training facility based in Millbrook. This project showcases the gym's identity, training programs, membership plans, and community-driven philosophy.
+
+![Ironworks Gym Preview](https://via.placeholder.com/1200x630?text=Ironworks+Gym+Preview)
+
+## 🏋️ Features
+
+- **Fully responsive** – Optimized for desktop, tablet, and mobile devices.
+- **Mobile-first navigation** – Hamburger menu for small screens.
+- **Smooth scroll** – Anchor links with offset for fixed header.
+- **Scroll reveal animations** – Elements fade in as you scroll.
+- **Modern design** – Dark theme with bold typography and industrial accents.
+- **Accessibility** – Semantic HTML, ARIA labels, keyboard navigation support.
+- **Performance optimized** – External CSS/JS, minimal dependencies, no external images.
+
+## 🗂 Project Structure
